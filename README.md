@@ -27,6 +27,8 @@
 
 ### 🛠️ Tech Stack
 
+### 🛠️ Tech Stack
+
 <table>
   <tr>
     <td><b>Languages</b></td>
@@ -49,7 +51,11 @@
   <tr>
     <td><b>AI / LLM</b></td>
     <td>
-      <img src="https://skillicons.dev/icons?i=langchain,openai" alt="AI / LLM" />
+      <img src="https://img.shields.io/badge/-LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white&label=" alt="LangChain" height="48" />
+      <img src="https://img.shields.io/badge/-LangGraph-1C3C3C?style=for-the-badge&logo=langgraph&logoColor=white&label=" alt="LangGraph" height="48" />
+      <img src="https://img.shields.io/badge/-OpenAI-1C3C3C?style=for-the-badge&logo=openai&logoColor=white&label=" alt="OpenAI" height="48" />
+      <img src="https://img.shields.io/badge/-Anthropic-1C3C3C?style=for-the-badge&logo=anthropic&logoColor=white&label=" alt="Anthropic" height="48" />
+      <img src="https://img.shields.io/badge/-Pinecone-1C3C3C?style=for-the-badge&logo=pinecone&logoColor=white&label=" alt="Pinecone" height="48" />
     </td>
   </tr>
   <tr>
@@ -67,7 +73,10 @@
   <tr>
     <td><b>Testing</b></td>
     <td>
-      <img src="https://skillicons.dev/icons?i=playwright,jest" alt="Testing" />
+      <img src="https://skillicons.dev/icons?i=jest" alt="Jest" />
+      <img src="https://img.shields.io/badge/-Playwright-1C3C3C?style=for-the-badge&logo=playwright&logoColor=white&label=" alt="Playwright" height="48" />
+      <img src="https://img.shields.io/badge/-JUnit-1C3C3C?style=for-the-badge&logo=junit5&logoColor=white&label=" alt="JUnit" height="48" />
+      <img src="https://img.shields.io/badge/-JMeter-1C3C3C?style=for-the-badge&logo=apachejmeter&logoColor=white&label=" alt="JMeter" height="48" />
     </td>
   </tr>
   <tr>
