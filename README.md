@@ -10,6 +10,9 @@
     <img src="https://img.shields.io/github/followers/Mohamed-safras?label=Follow&style=social" alt="GitHub Follow" />
    </a>
    <a href="https://linkedin.com/in/mohamed-safras-aw">
+    <img src="https://img.shields.io/website-0A66C2?logo=linkedin&logoColor=white&style=flat-square" alt="LinkedIn" />
+   </a>
+  <a href="https://mohamedsafras.vercel.app">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?logo=linkedin&logoColor=white&style=flat-square" alt="LinkedIn" />
    </a>
    <a href="mailto:mohamed.safras.aw@gmail.com">
