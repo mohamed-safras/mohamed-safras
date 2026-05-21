@@ -5,7 +5,7 @@
 </div>
 
 <p align="center">
-  Software Engineer based in Colombo, Sri Lanka. I build backend systems and AI-powered applications — currently focused on RAG pipelines, LangChain/LangGraph workflows, and production-grade LLM integrations.
+ A passionate Software Engineer based in Colombo, Sri Lanka. I work in the corporate IT sector and building high perfomance software products
 </p>
 
 <p align="center">
