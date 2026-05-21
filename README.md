@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="BANNER_URL_HERE" alt="Mohamed Safras — Software Engineer" />
+  <img src="./github-banner.png" alt="Mohamed Safras — Software Engineer" />
 </div>
 
 <h1 align="center">Hi, I'm Mohamed Safras 👋</h1>
