@@ -2,13 +2,13 @@
 <div align="center">
   <img src="./github-banner.png" alt="Mohamed Safras — Software Engineer" />
 </div>
-
+---
 <p align="center">
   <a href="https://github.com/Mohamed-safras">
     <img src="https://img.shields.io/github/followers/Mohamed-safras?label=Follow&style=social" alt="GitHub Follow" />
   </a>
   <a href="https://linkedin.com/in/mohamed-safras-aw">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://mohamedsafras.vercel.app">
     <img src="https://img.shields.io/badge/Portfolio-Visit-4A90E2?logo=icloud&logoColor=white&style=flat-square" alt="Portfolio" />
@@ -17,11 +17,10 @@
     <img src="https://img.shields.io/badge/Email-mohamed.safras.aw%40gmail.com-D14836?logo=gmail&logoColor=white&style=flat-square" alt="Email" />
   </a>
 </p>
-
+---
 - 👨‍💻 All of my projects are avaiable at https://github.com/Mohamed-safras
 - 🌍 Open to remote and international software engineering opportunities
 - 📫 Reach me at **mohamed.safras.aw@gmail.com**
-
 ---
 
 ### 🛠️ Tech Stack
