@@ -5,7 +5,7 @@
 <p align="center">
  A passionate Software Engineer based in Colombo, Sri Lanka. I work in the corporate IT sector and building high perfomance software products
 </p>
-<p align="center">
+Social badges · MDCopy<p align="center">
   <a href="https://github.com/Mohamed-safras">
     <img src="https://img.shields.io/github/followers/Mohamed-safras?label=Follow&style=social" alt="GitHub Follow" />
   </a>
@@ -13,13 +13,12 @@
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?logo=linkedin&logoColor=white&style=flat-square" alt="LinkedIn" />
   </a>
   <a href="https://mohamedsafras.vercel.app">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-000000?logo=vercel&logoColor=white&style=flat-square" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/Portfolio-Visit-4A90E2?logo=googlechrome&logoColor=white&style=flat-square" alt="Portfolio" />
   </a>
   <a href="mailto:mohamed.safras.aw@gmail.com">
     <img src="https://img.shields.io/badge/Email-mohamed.safras.aw%40gmail.com-D14836?logo=gmail&logoColor=white&style=flat-square" alt="Email" />
   </a>
 </p>
-
 ---
 
 - 👨‍💻 All of my projects are avaiable at https://github.com/Mohamed-safras
