@@ -32,9 +32,9 @@
     <td><b>Languages</b></td>
     <td>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40" height="40" />
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40" />
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/javas-original.svg" alt="Java" width="40" height="40" />
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azuresqldatabase/azuresqldatabase-original.svg" alt="SQL" width="40" height="40" />
     </td>
   </tr>
@@ -61,9 +61,11 @@
   <tr>
     <td><b>AI / LLM</b></td>
     <td>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/langchain/langchain-original.svg" alt="LangChain" width="40" height="40" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/openai/openai-original.svg" alt="OpenAI" width="40" height="40" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anthropic/anthropic-original.svg" alt="Anthropic" width="40" height="40" />
+      <img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/light/langchain-color.png" alt="LangChain" width="40" height="40" />
+      <img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/light/langgraph-color.png" alt="LangGraph" width="40" height="40" />
+      <img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/light/openai.png" alt="OpenAI" width="40" height="40" />
+      <img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/light/anthropic.png" alt="Anthropic" width="40" height="40" />
+      <img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/light/pinecone-color.png" alt="Pinecone" width="40" height="40" />
     </td>
   </tr>
   <tr>
@@ -93,7 +95,6 @@
     </td>
   </tr>
 </table>
-
 ---
 
 ### 📊 GitHub Stats
