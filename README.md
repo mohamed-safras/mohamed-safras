@@ -9,14 +9,14 @@
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN_HANDLE">
+   <a href="https://github.com/Mohamed-safras">
+    <img src="https://img.shields.io/github/followers/Mohamed-safras?label=Follow&style=social" alt="GitHub Follow" />
+  </a>
+  <a href="https://linkedin.com/in/mohamed-safras-aw">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?logo=linkedin&logoColor=white&style=flat-square" alt="LinkedIn" />
   </a>
   <a href="mailto:mohamed.safras.aw@gmail.com">
     <img src="https://img.shields.io/badge/Email-mohamed.safras.aw%40gmail.com-D14836?logo=gmail&logoColor=white&style=flat-square" alt="Email" />
-  </a>
-  <a href="https://github.com/Mohamed-safras">
-    <img src="https://img.shields.io/github/followers/Mohamed-safras?label=Follow&style=social" alt="GitHub Follow" />
   </a>
 </p>
 
