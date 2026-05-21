@@ -1,8 +1,8 @@
+<h1 align="center">Hey Everyone 👋, I'm Mohamed Safras</h1>
+
 <div align="center">
   <img src="./github-banner.png" alt="Mohamed Safras — Software Engineer" />
 </div>
-
-<h1 align="center">Hi, I'm Mohamed Safras 👋</h1>
 
 <p align="center">
   Software Engineer based in Colombo, Sri Lanka. I build backend systems and AI-powered applications — currently focused on RAG pipelines, LangChain/LangGraph workflows, and production-grade LLM integrations.
