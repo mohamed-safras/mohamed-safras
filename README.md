@@ -21,15 +21,9 @@
 </p>
 
 ---
-
-### 🧠 About Me
-
-- 🔭 Software Engineer at **Acentura Inc.** — 3 years of experience across backend engineering and AI/LLM development
-- 🤖 Working on **RAG systems, LangChain, LangGraph, vector search, and LLM-powered tooling**
-- ⚙️ Comfortable across the stack — APIs, data pipelines, system design, and integrations
+- 👨‍💻 All of my projects are avaiable at https://github.com/Mohamed-safras
 - 🌍 Open to remote and international software engineering opportunities
 - 📫 Reach me at **mohamed.safras.aw@gmail.com**
-
 ---
 
 ### 🛠️ Tech Stack
