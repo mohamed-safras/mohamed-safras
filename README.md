@@ -8,7 +8,7 @@
     <img src="https://img.shields.io/github/followers/Mohamed-safras?label=Follow&style=social" alt="GitHub Follow" />
   </a>
   <a href="https://linkedin.com/in/mohamed-safras-aw">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://cdn.simpleicons.org/linkedin/0A66C2" alt="LinkedIn" width="32" height="32" />
   </a>
   <a href="https://mohamedsafras.vercel.app">
     <img src="https://img.shields.io/badge/Portfolio-Visit-4A90E2?logo=icloud&logoColor=white&style=flat-square" alt="Portfolio" />
