@@ -66,7 +66,6 @@
       <img src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/langgraph-color.svg" alt="LangGraph" width="40" height="40" hspace="6" vspace="4" />
       <img src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/openai.svg" alt="OpenAI" width="40" height="40" hspace="6" vspace="4" />
       <img src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/anthropic.svg" alt="Anthropic" width="40" height="40" hspace="6" vspace="4" />
-      <img src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/pinecone-color.svg" alt="Pinecone" width="40" height="40" hspace="6" vspace="4" />
     </td>
   </tr>
   <tr>
