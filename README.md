@@ -2,7 +2,7 @@
 <div align="center">
   <img src="./github-banner.png" alt="Mohamed Safras — Software Engineer" />
 </div>
-
+<br/>
 <p align="center">
   <a href="https://github.com/Mohamed-safras">
     <img src="https://img.shields.io/github/followers/Mohamed-safras?label=Follow&style=social" alt="GitHub Follow" />
