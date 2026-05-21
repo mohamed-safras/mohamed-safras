@@ -87,6 +87,15 @@
     </td>
   </tr>
   <tr>
+    <td><b>Testing</b></td>
+    <td>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/playwright/playwright-original.svg" alt="Playwright" width="40" height="40" hspace="6" vspace="4" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" alt="Jest" width="40" height="40" hspace="6" vspace="4" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/junit/junit-original.svg" alt="JUnit" width="40" height="40" hspace="6" vspace="4" />
+      <img src="https://www.vectorlogo.zone/logos/jmeter/jmeter-icon.svg" alt="JMeter" width="40" height="40" hspace="6" vspace="4" />
+    </td>
+  </tr>
+  <tr>
     <td><b>Tools</b></td>
     <td>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40" hspace="6" vspace="4" />
@@ -109,5 +118,5 @@
 ---
 
 <p align="center">
-  <i>Open to backend, AI/LLM, and full-stack engineering roles — remote or relocation.</i>
+  <i>Open to frontend, backend, AI/LLM, and full-stack software engineering roles — hybrid/remote or relocation.</i>
 </p>
