@@ -27,53 +27,50 @@
 
 ### 🛠️ Tech Stack
 
-<table>
-  <tr>
-    <td><b>Languages</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat-square" alt="Python" />
-      <img src="https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=flat-square" alt="TypeScript" />
-      <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square" alt="JavaScript" />
-      <img src="https://img.shields.io/badge/-SQL-336791?logo=postgresql&logoColor=white&style=flat-square" alt="SQL" />
-    </td>
-  </tr>
-  <tr>
-    <td><b>Backend &amp; APIs</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/-Node.js-339933?logo=nodedotjs&logoColor=white&style=flat-square" alt="Node.js" />
-      <img src="https://img.shields.io/badge/-Express-000000?logo=express&logoColor=white&style=flat-square" alt="Express" />
-      <img src="https://img.shields.io/badge/-FastAPI-009688?logo=fastapi&logoColor=white&style=flat-square" alt="FastAPI" />
-      <img src="https://img.shields.io/badge/-REST_APIs-25A162?style=flat-square" alt="REST APIs" />
-    </td>
-  </tr>
-  <tr>
-    <td><b>AI / LLM</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/-LangChain-1C3C3C?logo=langchain&logoColor=white&style=flat-square" alt="LangChain" />
-      <img src="https://img.shields.io/badge/-LangGraph-FF6B6B?style=flat-square" alt="LangGraph" />
-      <img src="https://img.shields.io/badge/-OpenAI-412991?logo=openai&logoColor=white&style=flat-square" alt="OpenAI" />
-      <img src="https://img.shields.io/badge/-Anthropic-D4A27F?style=flat-square" alt="Anthropic" />
-      <img src="https://img.shields.io/badge/-Pinecone-000000?style=flat-square" alt="Pinecone" />
-    </td>
-  </tr>
-  <tr>
-    <td><b>Databases</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=flat-square" alt="PostgreSQL" />
-      <img src="https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=flat-square" alt="MongoDB" />
-      <img src="https://img.shields.io/badge/-Redis-DC382D?logo=redis&logoColor=white&style=flat-square" alt="Redis" />
-    </td>
-  </tr>
-  <tr>
-    <td><b>Tools &amp; Cloud</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat-square" alt="Docker" />
-      <img src="https://img.shields.io/badge/-AWS-232F3E?logo=amazonaws&logoColor=white&style=flat-square" alt="AWS" />
-      <img src="https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat-square" alt="Git" />
-      <img src="https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black&style=flat-square" alt="Linux" />
-    </td>
-  </tr>
-</table>
+**Languages**  
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat-square)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=flat-square)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square)
+![SQL](https://img.shields.io/badge/-SQL-336791?logo=postgresql&logoColor=white&style=flat-square)
+
+**Frontend**  
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat-square)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=nextdotjs&logoColor=white&style=flat-square)
+![Redux](https://img.shields.io/badge/-Redux-764ABC?logo=redux&logoColor=white&style=flat-square)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-06B6D4?logo=tailwindcss&logoColor=white&style=flat-square)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat-square)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=flat-square)
+
+**Backend & APIs**  
+![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=nodedotjs&logoColor=white&style=flat-square)
+![NestJS](https://img.shields.io/badge/-NestJS-E0234E?logo=nestjs&logoColor=white&style=flat-square)
+![Express](https://img.shields.io/badge/-Express-000000?logo=express&logoColor=white&style=flat-square)
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?logo=fastapi&logoColor=white&style=flat-square)
+![REST APIs](https://img.shields.io/badge/-REST_APIs-25A162?style=flat-square)
+
+**AI / LLM**  
+![LangChain](https://img.shields.io/badge/-LangChain-1C3C3C?logo=langchain&logoColor=white&style=flat-square)
+![LangGraph](https://img.shields.io/badge/-LangGraph-FF6B6B?style=flat-square)
+![OpenAI](https://img.shields.io/badge/-OpenAI-412991?logo=openai&logoColor=white&style=flat-square)
+![Anthropic](https://img.shields.io/badge/-Anthropic-D4A27F?style=flat-square)
+![Pinecone](https://img.shields.io/badge/-Pinecone-000000?style=flat-square)
+
+**Databases**  
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=flat-square)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=flat-square)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=flat-square)
+
+**DevOps & Cloud**  
+![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat-square)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?logo=kubernetes&logoColor=white&style=flat-square)
+![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-2088FF?logo=githubactions&logoColor=white&style=flat-square)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazonaws&logoColor=white&style=flat-square)
+![Nginx](https://img.shields.io/badge/-Nginx-009639?logo=nginx&logoColor=white&style=flat-square)
+
+**Tools**  
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat-square)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black&style=flat-square)
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white&style=flat-square)
 
 ---
 
