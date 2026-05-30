@@ -1,6 +1,6 @@
 <h1 align="center">Hey Everyone 👋, I'm Mohamed Safras</h1>
 <div align="center">
-  <img src="./github-banner.png" alt="Mohamed Safras — Software Engineer" />
+  <img src="./github-banner-blue.png" alt="Mohamed Safras — Software Engineer" />
 </div>
 <br/>
 <p align="center">
