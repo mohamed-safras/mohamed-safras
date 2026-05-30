@@ -1,8 +1,11 @@
 <h1 align="center">Hey Everyone 👋, I'm Mohamed Safras</h1>
+
 <div align="center">
   <img src="./Blue Modern Github Banner.png" alt="Mohamed Safras — Software Engineer" />
 </div>
+
 <br/>
+
 <p align="center">
   <a href="https://github.com/Mohamed-safras">
     <img src="https://img.shields.io/github/followers/Mohamed-safras?label=Follow&style=social" alt="GitHub Follow" />
@@ -18,166 +21,89 @@
   </a>
 </p>
 
-- 👨‍💻 All of my projects are avaiable at https://github.com/Mohamed-safras
+- 👨‍💻 All of my projects are available at https://github.com/Mohamed-safras
 - 🌍 Open to remote and international software engineering opportunities
 - 📫 Reach me at **mohamed.safras.aw@gmail.com**
+
 ---
 
 ### 🛠️ Tech Stack
 
 <table>
   <tr>
-    <td><b>Languages</b></td>
-    <td>
-      <div style="display:inline-flex;align-items:center;justify-content:center;width:40px;height:40px;background:rgba(150,150,150,0.15);border-radius:6px;margin:4px 6px;">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="26" height="26" />
-      </div>
-      <div style="display:inline-flex;align-items:center;justify-content:center;width:40px;height:40px;background:rgba(150,150,150,0.15);border-radius:6px;margin:4px 6px;">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="26" height="26" />
-      </div>
-      <div style="display:inline-flex;align-items:center;justify-content:center;width:40px;height:40px;background:rgba(150,150,150,0.15);border-radius:6px;margin:4px 6px;">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="26" height="26" />
-      </div>
-      <div style="display:inline-flex;align-items:center;justify-content:center;width:40px;height:40px;background:rgba(150,150,150,0.15);border-radius:6px;margin:4px 6px;">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="26" height="26" />
-      </div>
-      <div style="display:inline-flex;align-items:center;justify-content:center;width:40px;height:40px;background:rgba(150,150,150,0.15);border-radius:6px;margin:4px 6px;">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azuresqldatabase/azuresqldatabase-original.svg" alt="SQL" width="26" height="26" />
-      </div>
-    </td>
+    <td align="center" width="130"><b>Languages</b></td>
+    <td align="center" width="130"><b>Frontend</b></td>
+    <td align="center" width="130"><b>Backend & APIs</b></td>
+    <td align="center" width="130"><b>AI / LLM</b></td>
+    <td align="center" width="130"><b>Databases</b></td>
+    <td align="center" width="130"><b>DevOps & Cloud</b></td>
+    <td align="center" width="130"><b>Testing</b></td>
+    <td align="center" width="130"><b>Tools</b></td>
   </tr>
   <tr>
-    <td><b>Frontend</b></td>
-    <td>
-      <div style="display:inline-flex;align-items:center;justify-content:center;width:40px;height:40px;background:rgba(150,150,150,0.15);border-radius:6px;margin:4px 6px;">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="26" height="26" />
-      </div>
-      <div style="display:inline-flex;align-items:center;justify-content:center;width:40px;height:40px;background:rgba(150,150,150,0.15);border-radius:6px;margin:4px 6px;">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="Next.js" width="26" height="26" />
-      </div>
-      <div style="display:inline-flex;align-items:center;justify-content:center;width:40px;height:40px;background:rgba(150,150,150,0.15);border-radius:6px;margin:4px 6px;">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" alt="Redux" width="26" height="26" />
-      </div>
-      <div style="display:inline-flex;align-items:center;justify-content:center;width:40px;height:40px;background:rgba(150,150,150,0.15);border-radius:6px;margin:4px 6px;">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind CSS" width="26" height="26" />
-      </div>
-      <div style="display:inline-flex;align-items:center;justify-content:center;width:40px;height:40px;background:rgba(150,150,150,0.15);border-radius:6px;margin:4px 6px;">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="26" height="26" />
-      </div>
-      <div style="display:inline-flex;align-items:center;justify-content:center;width:40px;height:40px;background:rgba(150,150,150,0.15);border-radius:6px;margin:4px 6px;">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="26" height="26" />
-      </div>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="36" title="Python"/><br/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="36" title="Java"/><br/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="36" title="TypeScript"/><br/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="36" title="JavaScript"/><br/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azuresqldatabase/azuresqldatabase-original.svg" width="36" title="SQL"/>
     </td>
-  </tr>
-  <tr>
-    <td><b>Backend &amp; APIs</b></td>
-    <td>
-      <div style="display:inline-flex;align-items:center;justify-content:center;width:40px;height:40px;background:rgba(150,150,150,0.15);border-radius:6px;margin:4px 6px;">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="26" height="26" />
-      </div>
-      <div style="display:inline-flex;align-items:center;justify-content:center;width:40px;height:40px;background:rgba(150,150,150,0.15);border-radius:6px;margin:4px 6px;">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" alt="NestJS" width="26" height="26" />
-      </div>
-      <div style="display:inline-flex;align-items:center;justify-content:center;width:40px;height:40px;background:rgba(150,150,150,0.15);border-radius:6px;margin:4px 6px;">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="Express" width="26" height="26" />
-      </div>
-      <div style="display:inline-flex;align-items:center;justify-content:center;width:40px;height:40px;background:rgba(150,150,150,0.15);border-radius:6px;margin:4px 6px;">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="Spring Boot" width="26" height="26" />
-      </div>
-      <div style="display:inline-flex;align-items:center;justify-content:center;width:40px;height:40px;background:rgba(150,150,150,0.15);border-radius:6px;margin:4px 6px;">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" alt="FastAPI" width="26" height="26" />
-      </div>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="36" title="React"/><br/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="36" title="Next.js"/><br/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="36" title="Redux"/><br/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="36" title="Tailwind CSS"/><br/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="36" title="HTML5"/><br/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="36" title="CSS3"/>
     </td>
-  </tr>
-  <tr>
-    <td><b>AI / LLM</b></td>
-    <td>
-      <div style="display:inline-flex;align-items:center;justify-content:center;width:40px;height:40px;background:rgba(150,150,150,0.15);border-radius:6px;margin:4px 6px;">
-        <img src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/openai.svg" alt="OpenAI" width="26" height="26" />
-      </div>
-      <div style="display:inline-flex;align-items:center;justify-content:center;width:40px;height:40px;background:rgba(150,150,150,0.15);border-radius:6px;margin:4px 6px;">
-        <img src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/anthropic.svg" alt="Anthropic" width="26" height="26" />
-      </div>
-      <div style="display:inline-flex;align-items:center;justify-content:center;width:40px;height:40px;background:rgba(150,150,150,0.15);border-radius:6px;margin:4px 6px;">
-        <img src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/langchain-color.svg" alt="LangChain" width="26" height="26" />
-      </div>
-      <div style="display:inline-flex;align-items:center;justify-content:center;width:40px;height:40px;background:rgba(150,150,150,0.15);border-radius:6px;margin:4px 6px;">
-        <img src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/langgraph-color.svg" alt="LangGraph" width="26" height="26" />
-      </div>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="36" title="Node.js"/><br/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" width="36" title="NestJS"/><br/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="36" title="Express"/><br/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="36" title="Spring Boot"/><br/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="36" title="FastAPI"/>
     </td>
-  </tr>
-  <tr>
-    <td><b>Databases</b></td>
-    <td>
-      <div style="display:inline-flex;align-items:center;justify-content:center;width:40px;height:40px;background:rgba(150,150,150,0.15);border-radius:6px;margin:4px 6px;">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="26" height="26" />
-      </div>
-      <div style="display:inline-flex;align-items:center;justify-content:center;width:40px;height:40px;background:rgba(150,150,150,0.15);border-radius:6px;margin:4px 6px;">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="26" height="26" />
-      </div>
-      <div style="display:inline-flex;align-items:center;justify-content:center;width:40px;height:40px;background:rgba(150,150,150,0.15);border-radius:6px;margin:4px 6px;">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="26" height="26" />
-      </div>
+    <td align="center">
+      <img src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/openai.svg" width="36" title="OpenAI"/><br/>
+      <img src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/anthropic.svg" width="36" title="Anthropic"/><br/>
+      <img src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/langchain-color.svg" width="36" title="LangChain"/><br/>
+      <img src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/langgraph-color.svg" width="36" title="LangGraph"/>
     </td>
-  </tr>
-  <tr>
-    <td><b>DevOps &amp; Cloud</b></td>
-    <td>
-      <div style="display:inline-flex;align-items:center;justify-content:center;width:40px;height:40px;background:rgba(150,150,150,0.15);border-radius:6px;margin:4px 6px;">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="26" height="26" />
-      </div>
-      <div style="display:inline-flex;align-items:center;justify-content:center;width:40px;height:40px;background:rgba(150,150,150,0.15);border-radius:6px;margin:4px 6px;">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-original.svg" alt="Kubernetes" width="26" height="26" />
-      </div>
-      <div style="display:inline-flex;align-items:center;justify-content:center;width:40px;height:40px;background:rgba(150,150,150,0.15);border-radius:6px;margin:4px 6px;">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg" alt="GitHub Actions" width="26" height="26" />
-      </div>
-      <div style="display:inline-flex;align-items:center;justify-content:center;width:40px;height:40px;background:rgba(150,150,150,0.15);border-radius:6px;margin:4px 6px;">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="26" height="26" />
-      </div>
-      <div style="display:inline-flex;align-items:center;justify-content:center;width:40px;height:40px;background:rgba(150,150,150,0.15);border-radius:6px;margin:4px 6px;">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" alt="Nginx" width="26" height="26" />
-      </div>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="36" title="PostgreSQL"/><br/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="36" title="MySQL"/><br/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="36" title="MongoDB"/>
     </td>
-  </tr>
-  <tr>
-    <td><b>Testing</b></td>
-    <td>
-      <div style="display:inline-flex;align-items:center;justify-content:center;width:40px;height:40px;background:rgba(150,150,150,0.15);border-radius:6px;margin:4px 6px;">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/playwright/playwright-original.svg" alt="Playwright" width="26" height="26" />
-      </div>
-      <div style="display:inline-flex;align-items:center;justify-content:center;width:40px;height:40px;background:rgba(150,150,150,0.15);border-radius:6px;margin:4px 6px;">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" alt="Jest" width="26" height="26" />
-      </div>
-      <div style="display:inline-flex;align-items:center;justify-content:center;width:40px;height:40px;background:rgba(150,150,150,0.15);border-radius:6px;margin:4px 6px;">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/junit/junit-original.svg" alt="JUnit" width="26" height="26" />
-      </div>
-      <div style="display:inline-flex;align-items:center;justify-content:center;width:40px;height:40px;background:rgba(150,150,150,0.15);border-radius:6px;margin:4px 6px;">
-        <img src="https://cdn.simpleicons.org/apachejmeter/D22128" alt="JMeter" width="26" height="26" />
-      </div>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="36" title="Docker"/><br/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-original.svg" width="36" title="Kubernetes"/><br/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg" width="36" title="GitHub Actions"/><br/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="36" title="AWS"/><br/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" width="36" title="Nginx"/>
     </td>
-  </tr>
-  <tr>
-    <td><b>Tools</b></td>
-    <td>
-      <div style="display:inline-flex;align-items:center;justify-content:center;width:40px;height:40px;background:rgba(150,150,150,0.15);border-radius:6px;margin:4px 6px;">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="26" height="26" />
-      </div>
-      <div style="display:inline-flex;align-items:center;justify-content:center;width:40px;height:40px;background:rgba(150,150,150,0.15);border-radius:6px;margin:4px 6px;">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="26" height="26" />
-      </div>
-      <div style="display:inline-flex;align-items:center;justify-content:center;width:40px;height:40px;background:rgba(150,150,150,0.15);border-radius:6px;margin:4px 6px;">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" alt="Postman" width="26" height="26" />
-      </div>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/playwright/playwright-original.svg" width="36" title="Playwright"/><br/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" width="36" title="Jest"/><br/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/junit/junit-original.svg" width="36" title="JUnit"/><br/>
+      <img src="https://cdn.simpleicons.org/apachejmeter/D22128" width="36" title="JMeter"/>
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="36" title="Git"/><br/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="36" title="Linux"/><br/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="36" title="Postman"/>
     </td>
   </tr>
 </table>
 
+---
+
 ### 📊 GitHub Stats
+
 <div align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=Mohamed-safras&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohamed-safras&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
 </div>
+
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=Mohamed-safras&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
