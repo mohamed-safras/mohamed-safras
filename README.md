@@ -29,9 +29,13 @@
   <tr>
     <td><b>Languages</b></td>
     <td>
-      <div style="width:40px; height:40px; padding:4px; background:linear-gradient(135deg, rgba(0,0,0,0.1), rgba(255,255,255,0.1)); border-radius:6px; display:inline-flex; align-items:center; justify-content:center; margin:6px;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="32" height="32" />
+      <div style="width:40px; height:40px; padding:4px; 
+            background:linear-gradient(135deg, rgba(0,0,0,0.1), rgba(255,255,255,0.1)); 
+            border-radius:6px; display:inline-flex; align-items:center; justify-content:center; margin:6px;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" 
+       alt="Python" style="width:100%; height:100%; object-fit:contain;" />
 </div>
+
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40" height="40" hspace="6" vspace="4" />
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40" hspace="6" vspace="4" />
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" hspace="6" vspace="4" />
