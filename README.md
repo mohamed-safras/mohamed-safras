@@ -123,5 +123,5 @@
 ---
 
 <p align="center">
-  <i>Open to frontend, backend, AI/LLM, and full-stack software engineering roles — hybrid/remote or relocation.</i>
+  <i>Open to backend, AI/LLM, and full-stack software engineering roles — hybrid/remote or relocation.</i>
 </p>
