@@ -7,7 +7,7 @@
 <br/>
 
 <p align="center">
-  <a href="https://github.com/Mohamed-safras">
+  <a href="https://github.com/mohamed-safras">
     <img src="https://img.shields.io/github/followers/Mohamed-safras?label=Follow&style=social" alt="GitHub Follow" />
   </a>
   <a href="https://linkedin.com/in/mohamed-safras-aw">
